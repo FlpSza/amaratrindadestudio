@@ -196,16 +196,6 @@ body {
 #BannerSeparado .slider .box1 {
     background-image: url(/img/Amara\ banner.png);
     background-position: 50px 70%;
-    /* background-repeat: no-repeat; */
-}
-
-#BannerSeparado .slider .box1 .illustration .inner {
-    /* background-image: #dcdadf; */
-}
-
-#BannerSeparado .slider .box1 .illustration .inner::after,
-#BannerSeparado .slider .box1 .illustration .inner::before {
-    /* background-color: #dcdadf; */
 }
 
 #BannerSeparado .slider .box1 button {
@@ -213,32 +203,18 @@ body {
 }
 
 #BannerSeparado .slider .box2 {
+    background-image: url(/img/BANNER\ LASH.png);
     background-color: #dcdadf;
+    /* background-position: 50px 70%; */
 }
 
-#BannerSeparado .slider .box2 .illustration .inner {
-    background-color: #dcdadf;
-}
-
-#BannerSeparado .slider .box2 .illustration .inner::after,
-#BannerSeparado .slider .box2 .illustration .inner::before {
-    background-color: #dcdadf;
-}
 
 #BannerSeparado .slider .box2 button {
     background-color: #f07;
 }
 
 #BannerSeparado .slider .box3 {
-    background-color: #dcdadf;
-}
-
-#BannerSeparado .slider .box3 .illustration .inner {
-    background-color: #dcdadf;
-}
-
-#BannerSeparado .slider .box3 .illustration .inner::after,
-#BannerSeparado .slider .box3 .illustration .inner::before {
+    background-image: url(/img/Up\ na\ autoestima.png);
     background-color: #dcdadf;
 }
 
