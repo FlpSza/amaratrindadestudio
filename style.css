@@ -20,6 +20,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    text-decoration: none;
 }
 
 body {
@@ -278,15 +279,14 @@ nav > #utility {
     padding: 0 40px 40px;
     font-size: 28px;
     font-weight: 600;
-    line-height: 1.5;
+    line-height: 1;
 }
 
 
 
 .card-large > ul > li a {
-    line-height: 32px;
+    line-height: 1px;
     font-size: 14px;
-    /*    border: 1px solid red;*/
 }
 
 
